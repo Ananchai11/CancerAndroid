@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">CancerAndroid</string>
+    <string name="root_url">http://10.13.4.2:3000/api/cancer</string>
+    <string-array name="gender">
+        <item>ชาย</item>
+        <item>หญิง</item>
+    </string-array>
+    <string-array name="smoke">
+        <item>ไม่สูบ</item>
+        <item>เคยสูบ</item>
+    </string-array>
+    <string-array name="his">
+        <item>เคย</item>
+        <item>ไม่เคย</item>
+    </string-array>
+    <string-array name="gene">
+        <item>น้อย</item>
+        <item>ปานกลาง</item>
+        <item>มาก</item>
+    </string-array>
+</resources>
